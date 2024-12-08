@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Wicki.Top!"
 date:   2024-12-08 11:10:41 +0100
 categories: jekyll update
 ---
